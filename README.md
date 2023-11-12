@@ -23,4 +23,4 @@ const Ainsley = {
 
 ### 📈 Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsquishmeister&layout=compact&hide=language1)](https://github.com/MrSquishmeister)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squishmeist&layout=compact&hide=language1)](https://github.com/MrSquishmeister)
