@@ -7,10 +7,10 @@ Sometimes I like to develop random applications and figured this might be a good
 ```javascript
 const Ainsley = {
     pronouns: "He" | "Him",
-    code: ["Java", "PHP", "MYSQL"],
+    code: ["Kotlin", "Java", "PHP", "MYSQL"],
     askMeAbout: ["software development", "app development", "application design"],
     },
-    currentFocus: "LAMP Stack & Docker",
+    currentFocus: "Android app development",
     funFact: "Bugs were NOT named after an actual bug"
 };
 ```
