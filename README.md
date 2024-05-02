@@ -15,15 +15,13 @@ const Ainsley = {
 };
 ```
 
-<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-<img align="left" alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-<img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img align="left" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img align="left" alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="left" alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img align="left" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 <br/>
 
 ### 📈 Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squishmeist&layout=compact&hide=language1)](https://github.com/Squishmeist)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squishmeist&layout=compact)](https://github.com/Squishmeist)
