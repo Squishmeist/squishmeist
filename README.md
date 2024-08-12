@@ -7,7 +7,7 @@ This is where I keep random code.
 ```javascript
 const Ainsley = {
     pronouns: "He" | "Him",
-    code: ["Kotlin", "Typescript", "MySQLite"],
+    code: ["Kotlin", "Typescript", "SQLite"],
     askMeAbout: ["software development, web & android applications"],
     currentFocus: "web development",
     funFact: "Bugs were NOT named after an actual bug"
