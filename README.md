@@ -20,16 +20,10 @@ const Ainsley = {
 <img align="left" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-<br/>
+![Snake animation](https://raw.githubusercontent.com/squishmeist/squishmeist/output/github-contribution-grid-snake-dark.svg)
 
 ### 📈 Stats 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squishmeist&layout=donut&theme=transparent)](https://github.com/Squishmeist)
 
-<br/>
-
 [![Squishmeist's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=squishmeist&bg_color=22272e&color=fdfffc&line=6494aa&point=fdfffc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-![Snake animation](https://raw.githubusercontent.com/{squishmeist}/{squishmeist}/output/github-contribution-grid-snake-dark.svg)
