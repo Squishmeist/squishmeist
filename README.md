@@ -29,3 +29,7 @@ const Ainsley = {
 <br/>
 
 [![Squishmeist's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=squishmeist&bg_color=22272e&color=fdfffc&line=6494aa&point=fdfffc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/{squishmeist}/{squishmeist}/output/github-contribution-grid-snake-dark.svg)
