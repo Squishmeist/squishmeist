@@ -24,6 +24,9 @@ const Ainsley = {
 
 ### 📈 Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squishmeist&layout=donut&theme=transparent)](https://github.com/Squishmeist)
-
+<div class="row">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=squishmeist&layout=donut&theme=transparent" alt="Top Langs">
+    <img src="https://streak-stats.demolab.com/?user=Squishmeist&theme=transparent" alt="GitHub Streak">
+</div>
+    
 [![Squishmeist's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=squishmeist&bg_color=22272e&color=fdfffc&line=6494aa&point=fdfffc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
