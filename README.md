@@ -1,6 +1,6 @@
-# Hi there, I'm Ainsley! :wave:
-
-This is where I keep random code.
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:43cea2,100:185a9d&text=Squishmeist&textBg=false&section=header&fontColor=FFFFFF&reversal=false" />
+</div>
 
 ### ✏️ About me
 
@@ -13,6 +13,7 @@ const Ainsley = {
     funFact: "Bugs were NOT named after an actual bug"
 };
 ```
+
 <p>
 <img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 <img align="left" alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -21,12 +22,3 @@ const Ainsley = {
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/squishmeist/squishmeist/output/github-contribution-grid-snake-dark.svg)
-
-### 📈 Stats 
-
-<div class="row">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=squishmeist&layout=donut&theme=transparent" alt="Top Langs">
-    <img src="https://streak-stats.demolab.com/?user=Squishmeist&theme=transparent" alt="GitHub Streak">
-</div>
-    
-[![Squishmeist's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=squishmeist&bg_color=22272e&color=fdfffc&line=6494aa&point=fdfffc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
