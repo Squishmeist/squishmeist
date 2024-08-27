@@ -21,7 +21,6 @@ const Ainsley = {
 <img align="left" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img align="left" alt="Nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img align="left" alt="React" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"/>
-<img align="left" alt="RadixUi" src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white"/>
 </p>
 
 
