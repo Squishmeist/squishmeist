@@ -8,8 +8,8 @@
 const Ainsley = {
     pronouns: "He" | "Him",
     code: ["Typescript", "Go"],
-    askMeAbout: ["software development, web & android applications"],
-    currentFocus: "web development",
+    askMeAbout: ["ocpp 1.6", "connectrpc"],
+    currentFocus: "Debugger console using Go & React",
     funFact: "Bugs were NOT named after an actual bug"
 };
 ```
