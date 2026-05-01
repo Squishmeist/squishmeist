@@ -7,8 +7,8 @@
 ```javascript
 const Ainsley = {
     code: ["Go", "Typescript", "React", "React-Native"],
-    askMeAbout: ["gRPC", "sqlc"],
-    currentFocus: "Full-stack applications, cloud deployment, and real-time debugging tools",
+    askMeAbout: ["ble", "everest"],
+    currentFocus: "Ble protocol for configuring a chargepoint",
     funFact: "I once fixed a bug by reading the logs… 🐛"
 };
 ```
