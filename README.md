@@ -1,6 +1,6 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:43cea2,100:185a9d&text=Squishmeist&textBg=false&section=header&fontColor=FFFFFF&reversal=false" />
-</div>
+<p align="center">
+  <img src="./assets/header.svg" />
+</p>
 
 ### ✏️ About me
 
